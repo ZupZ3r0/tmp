@@ -1,4 +1,4 @@
-<script>
+
     /** ######################## **/
     /* LHM Custom Code PROD
     /* T-Systems MMS
@@ -1823,4 +1823,4 @@
      * It's used to change UI and its behavior
      * it's packed and attached at the end of our build
      */
-</script>
+
